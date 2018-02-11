@@ -11,7 +11,7 @@ We are going to continue with our search engine that pulls identifying informati
 
 In the last section, we pulled the header, the text from the first link and the `href` from the first link. In this section we are going to pull the same information, but from a different simplified Wikipedia page. Since this is a **lab** we are going to complete our final code in the JavaScript tab of the CodePen below. You will work in the Browser Console to discover what the final solution will be, but to complete the lab, you must put your completed code in the JavaScript Tab of the CodePen.
 
-### The rules of the lab
+### The rules of the lab:
 
 OK, let's explain how to pass this lab, and stick this bad boy on your refrigerator for all the world to see.
 
